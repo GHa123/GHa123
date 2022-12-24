@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Harshita Grover
 - 👀 I'm currently a Cybersecurity Graduate Student at New York Institute of Technology, Vancouver.
-- 🌱 I’ve experience in C/C++, Java, Python, HTML/HTML5, CSS, Javascript, MySQL, and SQL.
-- 👨 Software Tools: Android Studio, Eclipse, Netbeans, VMWare, Visual Studio, Pycharm
-- 🧠 Cloud Computing: Amazon Web Services(AWS) and Microsoft Azure 
-- 💞️ I’m looking for full time opportunities in Software Development and related areas in Canada.
+- 🌱 I’ve experience in various security domains such as vulnerability scanning, log monitoring, network analysis,etc.
+- 👨 Tools: Splunk (Creating alerts, dashboards and analyzing datasets), Kibana, Qualys, Wireshark, Nessus Vulnerability Scanner
+- 🧠 Cloud Computing knowledge: Amazon Web Services(AWS) and Microsoft Azure 
+- 💞️ I’m looking for full time opportunities in Cybersecurity and related areas in Canada.
 - 🏡 I'm eligible to work in Canada and willing to relocate across Canada at my own expense.
 
 👔 [Linkedin][linkedin] **|** 
